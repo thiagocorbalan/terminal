@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Fazer cachorro quente",
+      "complete": true
+    },
+    {
+      "title": "Comer o cachorro quente",
+      "complete": true
+    },
+    {
+      "title": "Cagar",
+      "complete": false
+    },
+    {
+      "title": "Lavar as mãos",
+      "complete": false
+    },
+    {
+      "title": "Fazer reunião",
+      "complete": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/todo.js",
+  "bin": {
+    "todo": "bin/todo.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "lowdb": "^3.0.0",
+    "yargs": "13.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
